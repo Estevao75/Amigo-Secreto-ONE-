@@ -13,7 +13,7 @@
   ![Gif Vitória](AmigoSecreto/assets/winner.gif)
   
   ⚠️ E se houver erros na hora de inserir os dados? ⚠️
-  
+  ![Gif do erro](AmigoSecreto/assets/erro.gif)
   
   ❌ Cliquei em "Adicionar" antes de inserir um nome? ❌ <br>
   ✔️ Na tela será exibido uma mensagem informando o ocorrido. ✔️<br>
