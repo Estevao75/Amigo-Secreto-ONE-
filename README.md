@@ -2,7 +2,7 @@
 📌 Este é um projeto que tem a ideia de sortear nomes para ser o amigo secreto. 📌
 <div align="center">
 🚀🚀🚀🚀🚀 Começamos na tela que pede para o usuário inserir nomes que sejam sorteados. 🚀🚀🚀🚀🚀
-![Tela do Projeto](AmigoSecreto/assets/print.png)
+![Tela do Projeto](AmigoSecreto/assets/print.gif)
 
 🎉 Agora só colocar o nome dos amigos e se divertir 🎉
 ![Gif de alegria](AmigoSecreto/assets/alegria.gif)
