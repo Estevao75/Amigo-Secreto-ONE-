@@ -15,8 +15,8 @@
 ⚠️ E se houver erros na hora de inserir os dados? ⚠️
 ![Gif do erro](AmigoSecreto/assets/erro.gif)
 
-❌ Cliquei em "Adicionar" antes de inserir um nome? ❌ 
-✔️ Na tela será exibido uma mensagem informando o ocorrido. ✔️
+❌ Cliquei em "Adicionar" antes de inserir um nome? ❌ <br>
+✔️ Na tela será exibido uma mensagem informando o ocorrido. ✔️<br>
 ❌ Cliquei em "Sortear amigo" sem ter a lista de amigos? ❌ 
 ✔️ Será aberto um "alert" com a informação. ✔️
 ❌ Digitei um número em vez de um nome?❌ 
@@ -26,4 +26,4 @@
 ![Gif tapa](AmigoSecreto/assets/tapa.gif)
 
 ### Quer ver o projeto? 
-![Video Projeto](AmigoSecreto/assets/video.mp4)
+![Video Projeto](AmigoSecreto/assets/video.gif)
