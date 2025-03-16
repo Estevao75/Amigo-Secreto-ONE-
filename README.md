@@ -1,6 +1,7 @@
 # Amigo-Secreto-ONE-
 📌 Este é um projeto que tem a ideia de sortear nomes para ser o amigo secreto. 📌
 <div align="center">
+  
   🚀🚀🚀🚀🚀 Começamos na tela que pede para o usuário inserir nomes que sejam sorteados. 🚀🚀🚀🚀🚀
   ![Gif do Projeto](AmigoSecreto/assets/print.gif)
   
